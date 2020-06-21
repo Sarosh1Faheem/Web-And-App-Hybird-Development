@@ -1,0 +1,50 @@
+@font-face{
+    font-family: Arial, Helvetica, sans-serif;
+    src: url("");
+}
+h1{
+    color:blue;
+    background-color: skyblue;
+    font-family: sans-serif;
+    font-size: 72;
+    letter-spacing: 2px;
+    text-decoration: underline;
+    text-shadow: 1px 1px 5px #0000006e;
+}
+h2{
+    font-weight: bold;
+}
+td{
+    text-align: center;
+}
+
+table{
+    column-gap: 5px;
+}
+img{
+   text-align: left;
+}
+h3{
+    text-decoration: underline;
+}
+a:link{
+    color: skyblue;
+    text-decoration: underline;
+}
+a:visited{
+    color: gray;
+}
+a:hover{
+    color: blue;
+    text-decoration: underline;
+}
+a:active{
+    color: brown
+}
+p{
+    text-indent: 60px;
+}
+
+tr, td{
+    text-indent: 60px;
+}

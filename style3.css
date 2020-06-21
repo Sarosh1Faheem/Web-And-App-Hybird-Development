@@ -1,0 +1,34 @@
+body{
+    background-color: azure;
+}
+
+@media only screen and (max-width: 400px){
+    body{
+        width: auto;
+        background-color: bisque;
+    }
+}
+
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.one,.two,.three{
+    border: 2px solid green;
+    width: 250px;
+}
+
+.one{
+    flex: 5;
+}
+
+.two{
+    flex: 3;
+}
+
+.three{
+    flex: 5;
+}

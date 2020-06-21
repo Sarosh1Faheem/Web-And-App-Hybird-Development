@@ -1,0 +1,43 @@
+/* .static {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    animation-name: example;
+    animation-duration: 4s;
+  }
+  
+  @keyframes example {
+    from {background-color: blue;}
+    to {background-color: white;}
+  }
+
+ .unstatic {
+    width: 100px;
+    height: 100px;
+    background: aqua;
+    transition: width 1000ms;
+    transition-delay: 0px;
+}
+
+.rotate{
+    width: 100px;
+      height: 100px;
+      background: burlywood;
+      transition: width 2s, height 2s, transform 1000ms;
+}
+
+.unstatic:hover{
+    background-color: whitesmoke;
+    width: 50%;
+    transform: rotate(180deg);
+}
+
+
+
+.rotate:hover {
+  background-color:burlywood ;
+  width: 150px;
+  height: 150px;
+  transform: rotate(180deg)
+
+} */

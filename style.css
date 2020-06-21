@@ -1,0 +1,21 @@
+
+*{
+    color: yellow;
+    background-color: rgb(155, 80, 9);
+}
+
+.bio{
+    color: red;
+}
+#identity{
+    color: magenta
+}
+li>a{
+    color: blue;
+}
+a{
+    color: red;
+}
+p>b{
+    color: blue;
+}
