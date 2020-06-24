@@ -490,4 +490,73 @@
 //         break
 //     default:
 //         alert("Hello.!, World")
+//
+
+
+// CLASS 15:
+
+// VAR = b= 0;        while loop (Initialization,
+// while(b<10){                 conditioning,
+//     console.log(b);          printing,
+//     b++;                     increment/decrement)  
 // }
+
+// var c = 0;             do-while  (Initialization,
+// do{                            
+//     console.log(c)                printing,
+//     c++;                          increment/decrement, 
+// }while(c<10);                     conditioning)
+
+// function greeting(){
+//     console.log('Hello.!, World')
+// }
+
+// function calculate(){
+//     var a = 2 + 3
+//     console.log(a)
+// }
+
+// function greetings(greet){
+//     alert(greet)
+// }
+
+// function Clickbtn(greet){
+//     alert('What the Fuck are you Doing.?')
+// }
+
+// function getName(){
+//     var name = document.getElementById("nme");
+//     console.log("Hello "+ name.value + ", How are You?")
+// }
+
+// name.value = ""
+
+// function setName(){
+//     var name = document.getElementById("xyz");
+//     name.value = "Sarosh"
+//     var para = document.getElementById("para");
+//     para.innerHTML = "Hello.! This is Sarosh"
+// }
+
+// setName()
+
+// CALCULATOR
+
+// function getNumber(num){
+//     var result = document.getElementById("rslt");
+//     result.value += num;
+// }
+
+// function clearResult(){
+//     var result = document.getElementById("rslt");
+//     result.value = ""
+// }
+
+// function getResult(){
+//     var result = document.getElementById("rslt");
+//     result.value = eval(result.value)
+// }
+
+// CALCULATOR
+
+as
